@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="lagom-assignment-01,user-lagom-api,user-lagom-impl,user-lagom,user-api,user-impl" />
+  </component>
+</project>
